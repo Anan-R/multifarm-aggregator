@@ -5,7 +5,7 @@ module.exports = {
     ecmaVersion: 2020, // Use the latest ecmascript standard
     sourceType: 'module', // Allows using import/export statements
     ecmaFeatures: {
-      jsx: true // Enable JSX since we're using React
+      jsx: true 
     }
   },
   settings: {
